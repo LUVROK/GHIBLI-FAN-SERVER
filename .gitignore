@@ -1,0 +1,23 @@
+# Dependencies
+/node_modules
+
+# Environment variables
+.env
+yarn.lock
+
+# Logs
+logs
+*.log
+
+# Testing
+/coverage
+
+# IDE/Editor specific
+.idea
+.vscode
+*.swp
+*.swo
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
